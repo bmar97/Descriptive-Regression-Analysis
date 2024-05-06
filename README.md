@@ -1,1 +1,1 @@
-[Descriptive Regression Analysis](lab_report.pdf)
+[Click here to view the Report](lab_report.pdf)
